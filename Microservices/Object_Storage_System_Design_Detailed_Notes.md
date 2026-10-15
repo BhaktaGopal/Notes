@@ -1,4 +1,4 @@
-# Object Storage Explained — Detailed, Easy-to-Understand System Design Notes
+# Object Storage Explained 
 
 **Based on:** *Object Storage Explained: Full Guide to System Design* — [YouTube video](https://www.youtube.com/watch?v=anLX4upY0ks)  
 **Purpose:** Beginner-friendly study notes for understanding object storage, Amazon S3 concepts, design trade-offs, and common system-design patterns.
