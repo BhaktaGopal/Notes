@@ -1,0 +1,10 @@
+fastapi[standard]
+sqlalchemy[asyncio]
+aiosqlite
+pydantic-settings
+pyjwt
+pwdlib[argon2]
+python-multipart
+email-validator
+pytest
+httpx
